@@ -1,4 +1,4 @@
-package jackpal.droidchecker.content;
+package jackpal.droidexaminer.content;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -133,7 +133,7 @@ public class Content {
             f.format("manufacturer: %s\n", Build.MANUFACTURER);
             f.format("model: %s\n", Build.MODEL);
             f.format("product: %s\n", Build.PRODUCT);
-            f.format("radio: %s\n", Build.RADIO);
+            // f.format("radio: %s\n", Build.RADIO);
             f.format("serial: %s\n", Build.SERIAL);
             f.format("tags: %s\n", Build.TAGS);
             f.format("time: %s %s\n", sDateFormat.format(Build.TIME), sTimeFormat.format(Build.TIME));

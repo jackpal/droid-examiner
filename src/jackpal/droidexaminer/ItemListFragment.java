@@ -1,4 +1,4 @@
-package jackpal.droidchecker;
+package jackpal.droidexaminer;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -7,7 +7,7 @@ import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
-import jackpal.droidchecker.content.Content;
+import jackpal.droidexaminer.content.Content;
 
 /**
  * A list fragment representing a list of Items. This fragment

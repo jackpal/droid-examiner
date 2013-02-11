@@ -1,6 +1,7 @@
-package jackpal.droidchecker;
+package jackpal.droidexaminer;
 
-import jackpal.droidchecker.content.Content;
+import jackpal.droidexaminer.R;
+import jackpal.droidexaminer.content.Content;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;

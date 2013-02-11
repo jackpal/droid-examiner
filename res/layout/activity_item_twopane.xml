@@ -22,7 +22,7 @@
 
     <fragment
         android:id="@+id/item_list"
-        android:name="jackpal.droidchecker.ItemListFragment"
+        android:name="jackpal.droidexaminer.ItemListFragment"
         android:layout_width="0dp"
         android:layout_height="match_parent"
         android:layout_weight="1"
