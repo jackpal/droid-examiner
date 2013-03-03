@@ -3,6 +3,9 @@ bin/
 gen/
 libs/
 
+# Signing key, kept secret
+tools/droid-examiner.keystore
+
 # Eclipse project files
 .classpath
 .project
